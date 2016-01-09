@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* intro code for the standard site that is above 1250px */
+body{
+	background-color: #EBEBEB;
+}
+
+#container {
+	width: 1200px;
+	margin:auto;
+}
+#banner {
+	background-image: url(images/WarmAfrica1200x676.jpg);
+	width: 1200px;
+	height: 676px;
+}
+.BannerText{
+	font-family: AdelleSans;
+	color: #ffffff;
+	font-size: 60px;
+	font-weight: 700;
+	padding: 292px 650px 108px 23px;
+}
+h1{
+	font-family: "adelle-sans",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+}*/
